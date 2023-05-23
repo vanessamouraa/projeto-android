@@ -57,7 +57,7 @@ header p {
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 20px;
     text-shadow: 4px 3px 0px rgba(0, 0, 0, 0.142); /* sombreado */
     
 }
@@ -73,6 +73,7 @@ nav {
     color: #6DEF90;    
     font-weight: bold;
     padding: 10px; 
+    columns: auto;
     border-radius: 5px;
     transition-duration: .5s; /* duracao do tempo depois que tira o mouse */
  }
